@@ -71,4 +71,6 @@ WHERE inter_dom = 'Inter'
 GROUP BY stay
 ORDER BY stay;
 
-
+-- Making sure the data is saved to a variable
+SELECT *
+FROM students;
