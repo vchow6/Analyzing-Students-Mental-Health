@@ -23,3 +23,15 @@ Acculturative stress: stress associated with learning about and integrating into
 * The heatmap shows a higher correlation acculturative stress (ToAS) than the social connectedness stress (ToSC) when comparing against the PHQ-9 score
 
   ![image](https://github.com/vchow6/Analyzing-Students-Mental-Health/blob/main/Heatmap.png)
+
+* Based on the results obtained from the the queries and above visualizations, we can infer that international students with longer durations of stay tend to exhibit higher average depression test scores (**average_phq**) and coparatively lower scores in social connectedness (**average_scs**). However, it's noteworthy that they experience lower levels of acculturative stress (**average_as**), which are more commonly observed in students with shorter stays. This observation aligns with the possibility that students who have not been away from home for an extended period might encounter culture shock and feelings of homesickness
+
+## Recommendations:
+
+The following recommendations are proposed to enhance the well-being of international students coping with being away from home: 
+* **Accessible Mental Healthcare:** The Japanses government should consider establishing accessible and affordable mental healthcare services tailored for international students
+* **Promoting Social Connections:** Initiatives such as the buddy system should be explored to foster increased social interactions between domestic and international students, as well as among international students themselves
+*  **Student Organizations:** The creation of student organizations specifically for international students would provide a supportive environment where they can foster a sense of belonging and connect with peers who share similar experiences
+* **Local Family Match Programs:** Implementing programs that match international students with local families could greatly aid in their adjustment to the new environment and culture
+
+By implementing these suggestions, institutions can better support international students adapting to their new surroundings and alleviate potential challenges associated with being away from home. 
