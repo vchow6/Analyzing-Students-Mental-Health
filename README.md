@@ -24,7 +24,7 @@ Acculturative stress: stress associated with learning about and integrating into
 
   ![image](https://github.com/vchow6/Analyzing-Students-Mental-Health/blob/main/Heatmap.png)
 
-* Based on the results obtained from the the queries and above visualizations, we can infer that international students with longer durations of stay tend to exhibit higher average depression test scores (**average_phq**) and coparatively lower scores in social connectedness (**average_scs**). However, it's noteworthy that they experience lower levels of acculturative stress (**average_as**), which are more commonly observed in students with shorter stays. This observation aligns with the possibility that students who have not been away from home for an extended period might encounter culture shock and feelings of homesickness
+* Based on the results obtained from the the [queries](https://github.com/vchow6/Analyzing-Students-Mental-Health/blob/main/mental_health_5.10.24.ipynb) and above visualizations, we can infer that international students with longer durations of stay tend to exhibit higher average depression test scores (**average_phq**) and coparatively lower scores in social connectedness (**average_scs**). However, it's noteworthy that they experience lower levels of acculturative stress (**average_as**), which are more commonly observed in students with shorter stays. This observation aligns with the possibility that students who have not been away from home for an extended period might encounter culture shock and feelings of homesickness
 
 ## Recommendations:
 
